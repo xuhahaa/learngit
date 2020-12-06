@@ -1,3 +1,3 @@
-Git --V1
-Git is a version control system.
+Git --V2
+Git is a distributed version control system.
 Git is free software.
